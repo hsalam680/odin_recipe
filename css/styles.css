@@ -1,0 +1,41 @@
+* {
+    color: purple;
+    background-color: rgb(7, 7, 32);
+    font-family: "new times roman", sans-serif;
+    text-align: center;
+}
+.alert-text {
+    color: red;
+    font-size: 15px;
+    font-style: italic;
+    border: 2px solid rgb(36, 132, 14);
+    margin: 10px;
+    padding: 30px;
+    border-radius: 10px;
+   
+}
+p,
+div {
+    color: white;
+    font-size: 20px;
+}
+p{  
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+a {
+    color: rgb(24, 178, 206);
+}
+button {
+    background-color: rgb(24, 178, 206);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: help;
+}
